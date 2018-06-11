@@ -8,7 +8,7 @@
 * open uraniumx-qt.exe or uraniumxd.exe with cmd:
 
 ```
-uraniumx-qt.exe -server -rpcport 8234 -user test -password test
+uraniumx-qt.exe -server -rpcport=8234 -rpcuser=test -rpcpassword=test
 ```
 
 * modify config.conf and run gourxminer.exe
